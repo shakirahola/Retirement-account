@@ -1,5 +1,5 @@
 # Author : Shakirah_Oladokun
-# Assignment number & name: HW 3 Retirement Account
+# Project: Retirement Account
 # Date : 2 June 2020
 # Program Description: Problem Solving and programming
 
